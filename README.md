@@ -74,8 +74,6 @@ This will save 10,000 characters of generated text to more.txt.
 Clone the repository:
 
 ```bash
-
-Copy
 git clone https://github.com/githumster/Simple_GPT.git
 ```
 Place the text file all_tracks.txt in the root directory.

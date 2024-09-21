@@ -2,7 +2,6 @@ import torch
 from model import GPTLanguageModel
 from utils import load_data, prepare_data, get_batch, estimate_loss
 
-# Гиперпараметры
 n_embd = 384
 n_head = 6
 n_layer = 6
